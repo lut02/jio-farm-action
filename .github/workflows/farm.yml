@@ -6,7 +6,7 @@ on:
       target_links:
         description: 'Target jumlah link'
         required: true
-        default: '1'
+        default: '5'
       max_runtime_minutes:
         description: 'Maks runtime (menit)'
         required: true
